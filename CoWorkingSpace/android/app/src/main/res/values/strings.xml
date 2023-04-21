@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoWorkingSpace</string>
+    <string name="facebook_app_id">644841256402217</string>
+    <string name="fb_login_protocol_scheme">fb644841256402217</string>
+</resources>

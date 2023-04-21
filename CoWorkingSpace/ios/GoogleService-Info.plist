@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>41381668334-hk4bkgvtvc6b45qo4rt0f49mbsa2lt0b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.41381668334-hk4bkgvtvc6b45qo4rt0f49mbsa2lt0b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>41381668334-rsib9j29m83s0bfkucj8s6uejldekisi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAt5brvBM9KCNan_etGJP9i4giITryq2f8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>41381668334</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sbpds.coworkingspace</string>
+	<key>PROJECT_ID</key>
+	<string>co-working-space-f7b56</string>
+	<key>STORAGE_BUCKET</key>
+	<string>co-working-space-f7b56.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:41381668334:ios:056ae8470290b3edfb9aff</string>
+	<key>DATABASE_URL</key>
+	<string>https://co-working-space-f7b56.firebaseio.com</string>
+</dict>
+</plist>

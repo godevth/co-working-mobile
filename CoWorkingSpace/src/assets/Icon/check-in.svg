@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="128.469" viewBox="0 0 121 128.469">
+  <g id="hotel" transform="translate(0.5 0.5)">
+    <g id="Group_525" data-name="Group 525">
+      <g id="Group_524" data-name="Group 524">
+        <path id="Path_667" data-name="Path 667" d="M60,212.97a5.419,5.419,0,1,0,7.664,7.663l14.561-14.561a5.429,5.429,0,0,0,0-7.664L67.664,183.847A5.419,5.419,0,0,0,60,191.511l5.31,5.31H20.419a5.419,5.419,0,1,0,0,10.838H65.311Z" transform="translate(-15 -138.506)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        <path id="Path_668" data-name="Path 668" d="M214.73,0H135.84A4.911,4.911,0,0,0,131,4.979V23.9a4.842,4.842,0,1,0,9.68,0V9.959h69.21V117.51H140.68V103.568a4.842,4.842,0,1,0-9.68,0V122.49a4.911,4.911,0,0,0,4.84,4.979h78.89a4.911,4.911,0,0,0,4.84-4.979V4.979A4.911,4.911,0,0,0,214.73,0Z" transform="translate(-99.569)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
